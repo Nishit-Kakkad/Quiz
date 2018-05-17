@@ -1,0 +1,22 @@
+[
+    {
+        "questionId" : 1,
+        "question" : "The capital of India is "
+    },
+    {
+        "questionId" : 2,
+        "question" : "Prime minister of India is "
+    },
+    {
+        "questionId" : 3,
+        "question" : "President of India is "
+    },
+    {
+        "questionId" : 4,
+        "question" : "Independence day of India is in "
+    },
+    {
+        "questionId" : 5,
+        "question" : "National animal of India is "
+    }
+]
